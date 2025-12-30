@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZDE_APIPROV</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>CHAR25</DOMNAME>
+    <HEADLEN>12</HEADLEN>
+    <SCRLEN1>09</SCRLEN1>
+    <SCRLEN2>12</SCRLEN2>
+    <SCRLEN3>12</SCRLEN3>
+    <DDTEXT>API Provider</DDTEXT>
+    <REPTEXT>API Provider</REPTEXT>
+    <SCRTEXT_S>API Provd</SCRTEXT_S>
+    <SCRTEXT_M>API Provider</SCRTEXT_M>
+    <SCRTEXT_L>API Provider</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>

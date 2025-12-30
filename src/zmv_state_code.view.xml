@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_VIEW" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD25V>
+    <VIEWNAME>ZMV_STATE_CODE</VIEWNAME>
+    <AS4LOCAL>A</AS4LOCAL>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <AGGTYPE>V</AGGTYPE>
+    <ROOTTAB>ZTT_STATE_CODE</ROOTTAB>
+    <DDTEXT>GST State Code mapping</DDTEXT>
+    <VIEWCLASS>C</VIEWCLASS>
+    <CUSTOMAUTH>A</CUSTOMAUTH>
+    <GLOBALFLAG>X</GLOBALFLAG>
+   </DD25V>
+   <DD26V_TABLE>
+    <DD26V>
+     <VIEWNAME>ZMV_STATE_CODE</VIEWNAME>
+     <TABNAME>ZTT_STATE_CODE</TABNAME>
+     <TABPOS>0001</TABPOS>
+     <FORTABNAME>ZTT_STATE_CODE</FORTABNAME>
+    </DD26V>
+   </DD26V_TABLE>
+   <DD27P_TABLE>
+    <DD27P>
+     <VIEWFIELD>MANDT</VIEWFIELD>
+     <TABNAME>ZTT_STATE_CODE</TABNAME>
+     <FIELDNAME>MANDT</FIELDNAME>
+     <KEYFLAG>X</KEYFLAG>
+    </DD27P>
+    <DD27P>
+     <VIEWFIELD>REGIO</VIEWFIELD>
+     <TABNAME>ZTT_STATE_CODE</TABNAME>
+     <FIELDNAME>REGIO</FIELDNAME>
+     <KEYFLAG>X</KEYFLAG>
+     <LOGFLAG>X</LOGFLAG>
+    </DD27P>
+    <DD27P>
+     <VIEWFIELD>GST_REGIO</VIEWFIELD>
+     <TABNAME>ZTT_STATE_CODE</TABNAME>
+     <FIELDNAME>GST_REGIO</FIELDNAME>
+     <LOGFLAG>X</LOGFLAG>
+    </DD27P>
+   </DD27P_TABLE>
+   <TABL_EXTRAS>
+    <TDDAT>
+     <TABNAME>ZMV_STATE_CODE</TABNAME>
+     <CCLASS>&amp;NC&amp;</CCLASS>
+    </TDDAT>
+   </TABL_EXTRAS>
+  </asx:values>
+ </asx:abap>
+</abapGit>

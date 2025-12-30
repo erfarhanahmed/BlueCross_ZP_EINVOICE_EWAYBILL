@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SUSH" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <HEAD>
+    <NAME>ZFM_EINVOICE_OAUTH_API</NAME>
+    <TYPE>RF</TYPE>
+    <DISPLAY_NAME>ZFM_EINVOICE_OAUTH_API</DISPLAY_NAME>
+    <STEXT>E-invoice - Get Access Token</STEXT>
+   </HEAD>
+  </asx:values>
+ </asx:abap>
+</abapGit>
